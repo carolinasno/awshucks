@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  div
+    h1 register
+    
+    form(role='form', action='/register', method='post', style='max-width: 300px;')
+      input(type='text', name='username', placeholder='enter username')
+      input(type='password', name='password', placeholder='password')
+      button(type='submit') submit
+      &nbsp;
+      a(href='/')
+        button(type='button') cancel
+
+
+  br
+  h4= info

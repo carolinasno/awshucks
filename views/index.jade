@@ -1,4 +1,12 @@
 extends layout
 
 block content
-  h1= title
+  h1 aw shucks
+  
+  if (!user)
+    a(href='/login') login
+    br
+    a(href='/register') register
+  if (user)
+    p welcome #{user.username}
+    a(href='/logout') logout
