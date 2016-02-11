@@ -1,8 +1,62 @@
 body {
+  background-image: url('https://i.imgur.com/SdKjn2Y.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
   padding: 50px;
-  
+  font-family: 'antoniolight';
+  font-size: 28px;
+  text-align: center;
 }
 
 a {
-  color: #00B7FF;
+  color: tomato;
+  text-decoration: none;
+  font-size: 24px;
+}
+
+.awshucks-header {
+  font-family: 'porter_sans_blockblock';
+  font-size: 70px;
+  color: #16174f;
+  margin: 10px 0px;
+}
+
+.awshucks-header:hover {
+  color: #16174f;
+}
+
+.login-header,
+.register-header,
+.welcome-header {
+  font-family: 'porter_sans_blockblock';
+  font-size: 32px;
+}
+
+.error-message {
+  font-size: 24px;
+  padding-top: 40px;
+}
+
+.container {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 40px;
+}
+
+.button {
+  font-family: 'antoniolight';
+  color: #16174f;
+  text-transform: uppercase;
+  font-size: 16px;
+  border: 1px solid black;
+}
+
+form {
+  margin: 0 auto;
+}
+
+input {
+  font-family: 'antoniolight';
+  color: #16174f;
+  text-transform: uppercase;
+  font-size: 12px;
 }

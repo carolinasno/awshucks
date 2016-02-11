@@ -1,12 +1,20 @@
 extends layout
 
 block content
-  h1 aw shucks
-  
-  if (!user)
-    a(href='/login') login
-    br
-    a(href='/register') register
-  if (user)
-    p welcome #{user.username}
-    a(href='/logout') logout
+  h1
+    a(href='/', class='awshucks-header') AW SHUCKS
+  .container
+    
+    if (!user)
+      .row
+        .six.columns
+          a(href='/login', class='button') LOGIN
+        .six.columns
+          a(href='/register', class='button') REGISTER
+    if (user)
+      .row
+        .twelve.columns
+          h4(class='welcome-header') WELCOME #{user.username}
+      .row
+        .twelve.columns
+          a(href='/logout', class='button') LOGOUT

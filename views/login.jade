@@ -1,13 +1,21 @@
 extends layout
 
 block content
-  div
-    h1 login
+  h1
+    a(href='/', class='awshucks-header') AW SHUCKS
+  .container
+    h4(class='login-header') login
     
     form(role='form', action='/login', method='post', style='max-width: 300px')
-      input(type='text', name='username', placeholder='enter username')
-      input(type='password', name='password', placeholder='password')
-      button(type='submit') submit
-      &nbsp;
-      a(href='/')
-        button(type='button') cancel
+      .row
+        .twelve.columns
+          input(class='u-full-width', type='text', name='username', placeholder='enter username')
+      .row
+        .twelve.columns
+          input(class='u-full-width', type='password', name='password', placeholder='password')
+      .row
+        .six.columns
+          button(class='u-full-width', type='submit', class='button') SUBMIT
+        .six.columns
+          a(href='/')
+            button(type='button', class='button') CANCEL
