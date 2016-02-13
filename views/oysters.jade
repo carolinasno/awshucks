@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  h1
+    a(href='/', class='awshucks-header') AW SHUCKS
+    
+  .container(ng-controller='oysterController')
+    h4(class='oysters-header') OYSTERS
+    
+    .oyster-list(ng-repeat='oyster in oysters')
+      h5 {{oyster.name}}
+      h6 {{oyster.location}}
+      h6 Size: {{oyster.size}}
+      h6 Availability: {{oyster.oyster_availability}}
+      h6 Flavor Profile: {{oyster.oyster_flavor_profile}}
+      h6 Cultivation: {{oyster.oyster_cultivation}}
+      button(type='button', class='button') add to favorites

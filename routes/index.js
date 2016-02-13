@@ -1,7 +1,14 @@
 var express = require('express');
 var passport = require('passport');
 var Account = require('../models/account');
+var Oyster = require('../models/oyster');
 var router = express.Router();
+
+router.get('/api/oysters', function(req, res){
+  Oyster.find({}, function(err, dbOysters){
+    res.json(dbOysters);
+  });
+});
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
@@ -34,6 +41,10 @@ router.post('/login', passport.authenticate('local'), function(req, res){
 router.get('/logout', function(req, res){
   req.logout();
   res.redirect('/');
+});
+
+router.get('/oysters', function(req, res){
+  res.render('oysters', {});
 });
 
 module.exports = router;

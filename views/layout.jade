@@ -1,5 +1,5 @@
 doctype html
-html
+html(ng-app='awShucks')
   head
     title AW SHUCKS
     meta(name='viewport', content='width=device-width, initial-scale=1.0')
@@ -13,3 +13,7 @@ html
     block content
 
   script(src='http://code.jquery.com/jquery.js')
+  script(src='https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js')
+  script(src='/javascripts/app.js', charset='utf-8')
+  script(src='/javascripts/controllers/oysterController.js', charset='utf-8')
+  script(src='/javascripts/services/oystersApi.js', charset='utf-8')

@@ -1,0 +1,553 @@
+[{
+  "name": "Alba Bras d’ Or Lakes Oyster ",
+  "location": "Bras d’Or Lakes, Cape Breton Island, Nova Scotia, Canada",
+  "species": "Virginica or Atlantic Oyster (Crassostrea virginica)",
+  "oyster_availability": "Spring thaw to January",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Suspension Tray to Bottom Culture",
+  "oyster_flavor_profile": "Alba Bras d’Or Lakes Oysters have a delicatly balanced sweet flavor and sea brininess."
+}, {
+  "name": "Barnstable Oyster",
+  "location": "Barnstable Harbor, Cape Cod, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "3″ and up",
+  "oyster_cultivation": "Rack & Bag cultivated, finished by bottom cultivation.",
+  "oyster_flavor_profile": "Barnstable Oysters have a sweet, nut-like flavor and firm meats with a unique “crunch” to their texture."
+}, {
+  "name": "Beausoleil (Beau Soleil) Oyster",
+  "location": "Negauc, New Brunswick, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "",
+  "size": "up to 2 1/2″",
+  "oyster_cultivation": "Suspension Tray",
+  "oyster_flavor_profile": "Beausoleil oysters have consistently shaped, petite shells with deep cups and firm meats.  Their flavor profile is delicate with a mild brininess and sweet finish."
+}, {
+  "name": "Bedeque Bay Oyster",
+  "location": "Salutation Cove, Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year around",
+  "size": "up to 3″",
+  "oyster_cultivation": "Bottom cultured",
+  "oyster_flavor_profile": "Bedeque Bay Oysters have round, deep cups with tender meats, high salinity and a strong distinctive flavor."
+}, {
+  "name": "“Belon” Oyster from Maine",
+  "location": "Damariscotta River, Maine",
+  "species": "European Flat Oyster (Ostrea edulis)",
+  "oyster_availability": "September – November",
+  "size": "3″ to 5″",
+  "oyster_cultivation": "Wild Bottom Grown",
+  "oyster_flavor_profile": "Maine Belon Oysters have a mild brininess, a potent coppery taste with a tannic accent and a crisp bite to the plump meats."
+}, {
+  "name": "Blackberry Point Oyster",
+  "location": "Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Almost year around",
+  "size": "3 1/2″ to 4″",
+  "oyster_cultivation": "Bottom cultured",
+  "oyster_flavor_profile": "Blackberry Point oyster flavor profile is straight forward and simple having the clean crispness of a cold water oyster with a mild sweetness up front and a medium brininess on the finish."
+}, {
+  "name": "Blue Point Oysters",
+  "location": "Anywhere in Long Island Sound, New York and Connecticut",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 4″",
+  "oyster_cultivation": "Bottom cultured",
+  "oyster_flavor_profile": "The Blue Point oyster name has become generic and so the flavor can vary. Generally, Blue Point oysters have satiny, almost liquid meats with a high brininess and very mild flavor.Genuine Blue Point Oysters have a fresh, crisp, firm texture, with a sweet aftertaste that sparkles with salinity."
+}, {
+  "name": "Cape Breton Oyster",
+  "location": "Cape Breton Island, Nova Scotia, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "",
+  "size": "up to 4″",
+  "oyster_cultivation": "",
+  "oyster_flavor_profile": "Cape Breton Oysters is a generic name and can include any oyster harvested on Cape Breton Island."
+}, {
+  "name": "Cape North Oyster",
+  "location": "Cape North, Cape Breton Island, Nova Scotia, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Spring thaw to January",
+  "size": "up to 4″",
+  "oyster_cultivation": "",
+  "oyster_flavor_profile": "Cape North Oysters are very meaty in texture with a high brininess but light on flavor."
+}, {
+  "name": "Cavendish Cup Oyster",
+  "location": "Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 4 1/2″",
+  "oyster_cultivation": "Bottom Cultured",
+  "oyster_flavor_profile": "Cavendish Cup Oysters have full, firm meats with a bright brininess."
+}, {
+  "name": "Chatham Oyster",
+  "location": "Oyster Pond, Chatham, Cape Cod, MA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year Around",
+  "size": "up to 3″",
+  "oyster_cultivation": "Mostly Rack & Bag; some Bottom Cultured",
+  "oyster_flavor_profile": "Chatham Oysters have rich, firm meats with a “slap you in the face” brininess, a sweet taste and a mild mineral finish."
+}, {
+  "name": "Chesapeake Oyster",
+  "location": "Chesapeake Bay area, USA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 4″",
+  "oyster_cultivation": "Probably wild bottom culture",
+  "oyster_flavor_profile": "Undefined as this could be any one of many oysters."
+}, {
+  "name": "Chincoteague Oyster",
+  "location": "Chincoteague Island, Virginia, USA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Rack & Bag cultivated",
+  "oyster_flavor_profile": "True Chincoteague Oysters which have been raised in Chincoteague Bay have a distinctive briny flavor followed by a sweet finish. But often other oysters are brought in and left to take on the salinity of the bay for a few weeks and sold as Chincoteague oysters. These “mock” Chincoteague oysters have the familiar high briny flavor but not much more taste beyond that."
+}, {
+  "name": "Colville Bay Oyster",
+  "location": "Colville Bay, Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "May – November",
+  "size": "up to 3″",
+  "oyster_cultivation": "Intertidal beach cultivation",
+  "oyster_flavor_profile": "Colville Bay Oysters have teardrop shaped shells with plump, firm meats. They have a medium brininess with a clean flavor and sweet finish."
+}, {
+  "name": "Conway Cup Oyster",
+  "location": "Foxley River, Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "July through February",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Rack & Bag; selects finish their grow-out by bottom culture.",
+  "oyster_flavor_profile": "Conway Cup Oysters have deep cups and full meats with a mild brininess and a clean, sweet finish."
+}, {
+  "name": "Cotuit Oyster",
+  "location": "Cotuit Bay, Cotuit Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year around",
+  "size": "2.5″ Cocktail to 6″ Jumbo",
+  "oyster_cultivation": "Floating bags until 1″ long, finished on the sand bottom.",
+  "oyster_flavor_profile": "Cotuit Oysters have plump meats with a clean, sweet, briny flavor."
+}, {
+  "name": "Cuttyhunk Oyster",
+  "location": "West End Pond, Cuttyhunk Island, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "June – February",
+  "size": "up to 3″",
+  "oyster_cultivation": "Lantern Suspension",
+  "oyster_flavor_profile": "Cuttyhunk Oysters have tender meats with a light, clean flavor and intense brininess."
+}, {
+  "name": "Dune Shadow Oyster",
+  "location": "Little Shemogue Bay, New Brunswick, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Tray to Beach",
+  "oyster_flavor_profile": "Dune Shadow Oysters have full meats with a high brininess and a smooth, mildly sweet finish."
+}, {
+  "name": "Duxbury Oyster",
+  "location": "Duxbury Bay, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "All year (they do not spawn)",
+  "size": "up to 3″",
+  "oyster_cultivation": "Rack & Bag bottom cultured.",
+  "oyster_flavor_profile": "Duxbury Oysters are very briny with plump meats set in deep cups with a sweet, buttery finish."
+}, {
+  "name": "Forbidden Oyster",
+  "location": "York River & Chesapeake Bay, Virginia",
+  "species": "Virginica or Atlantic Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year Around",
+  "size": "2″ to 4″",
+  "oyster_cultivation": "Rack and Bag (on bottom cage)",
+  "oyster_flavor_profile": "Forbidden Oysters have plump, tender meats with an extraordinary flavor, buttery texture, medium brine and a sweet finish."
+}, {
+  "name": "French Kiss Oysters",
+  "location": "Miramichi Bay, New Brunswick, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year Around",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Suspension Tray cultivation",
+  "oyster_flavor_profile": "French Kiss Oysters have full, plump meats with medium body, a sharp brininess followed by a mild sweetness on the finish."
+}, {
+  "name": "Glidden Point Oyster",
+  "location": "Damariscotta River Estuary, Maine",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "",
+  "size": "2″-3″ Cocktails, 3″-4″ Selects, 5″-8″ Grillers",
+  "oyster_cultivation": "Bottom cultured",
+  "oyster_flavor_profile": "Glidden Point Oysters have deep cups, firm plump meats, and a crisp, complex flavor which is both briny and sweet."
+}, {
+  "name": "Hurricane Harbor Oyster",
+  "location": "Northumberland Strait, Prince Edward Island",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "May – November",
+  "size": "up to 3″",
+  "oyster_cultivation": "Bottom Cultured oyster",
+  "oyster_flavor_profile": "Hurricane Harbor Oysters have a tan/greenish color shell. They have a high salinity with firm, crisp meats and a sweet finish."
+}, {
+  "name": "Island Creek Oyster",
+  "location": "Duxbury Bay, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year around",
+  "size": "up to 4″",
+  "oyster_cultivation": "Rack & Bag start, finished on the bottom.",
+  "oyster_flavor_profile": "Island Creek Oysters have wonderful butter & brine flavor with meats which are delightfully firm and have a clean taste, unmistakable sweetness and a mossy finish."
+}, {
+  "name": "James River Oyster",
+  "location": "James River, Chesapeake Bay Tributary, Virginia, USA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 4″",
+  "oyster_cultivation": "Wild ones are bottom cultured; auquacultured ones are rack & bag cultivated",
+  "oyster_flavor_profile": "James River Oysters have a mild brininess, plump meats and very mild flavor."
+}, {
+  "name": "Katama Bay Oyster (Sweet Petite)",
+  "location": "Martha’s Vineyard, MA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Limited production and availability",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Rack & Bag",
+  "oyster_flavor_profile": "Katama Bay oysters have deep cups with firm white meats, a briny hit followed by a smooth creaminess and a sweet finish."
+}, {
+  "name": "Malagash Thrumcap Oyster",
+  "location": "Thrumcap Island, Nova Scotia, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Spring thaw to January",
+  "size": "up to 4″",
+  "oyster_cultivation": "Bottom cultured",
+  "oyster_flavor_profile": "Malagash Thrumcap Oysters have firm meats and a mild vegetal flavor"
+}, {
+  "name": "Malpeque Oyster",
+  "location": "Malpeque Bay, Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "May – November",
+  "size": "up to 3″",
+  "oyster_cultivation": "Bottom cultured",
+  "oyster_flavor_profile": "Malpeque Oysters have a teardrop shaped shell with very tender meats. They are light-bodied with a crisp lettuce-like flavor, high brininess, and a clean, sweet finish."
+}, {
+  "name": "Martha’s Vineyard Oyster",
+  "location": "Martha’s Vineyard, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "",
+  "size": "up to 3″",
+  "oyster_cultivation": "The cultivated ones are rack & bag cultivated.",
+  "oyster_flavor_profile": "Wild Martha’s Vineyard Oysters have creamy meats with a clean seaweed flavor and inconsistent brininess from mild to strong.  Cultivated Martha’s Vineyard Oysters have creamy meats with a mild, clean flavor and inconsistent brininess from mild to strong."
+}, {
+  "name": "Mecox Bay Oyster",
+  "location": "Mecox Bay, Long Island, New York",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "November – April",
+  "size": "up to 3″",
+  "oyster_cultivation": "",
+  "oyster_flavor_profile": "Mecox Bay Oysters have a low salinity with a very mild but crisp flavor and slightly sweet finish."
+}, {
+  "name": "Moonstone Oyster",
+  "location": "Point Judith Pond, Rhode Island",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 4″",
+  "oyster_cultivation": "Rack & Bag cultured oyster",
+  "oyster_flavor_profile": "Moonstone Oysters are a briny, full-flavored, deep-cupped oyster. They have the rich taste of umami laced with mineral and stone accents followed by a long finish."
+}, {
+  "name": "Naked Cowboy® Oyster",
+  "location": "Long Island Sound, New York",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 4″",
+  "oyster_cultivation": "Wild Bottom grown",
+  "oyster_flavor_profile": "Naked Cowboy® Oysters tend to have full, plump meats with a firm yet smooth texture. They are refreshingly briny with a strong mineral accent and a ruggedly savory finish."
+}, {
+  "name": "Olde Salt Oyster",
+  "location": "hincoteague Bay, Chesapeake Bay Region, Virginia, USA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September - July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Off-bottom rack & bag cultured",
+  "oyster_flavor_profile": "Olde Salt Oysters have a high brininess with a smooth, clean finish."
+}, {
+  "name": "Oysterponds Oyster",
+  "location": "East End, Long Island, New York",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – April",
+  "size": "at least 4″",
+  "oyster_cultivation": "Rack & Bag cultivated",
+  "oyster_flavor_profile": "Oysterponds Oysters are a very flavorful oyster with a high brininess and a metalic bite."
+}, {
+  "name": "Paramour Oyster",
+  "location": "Parramore Island, Chesapeake Bay Region, Virginia",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "December – June",
+  "size": "up to 3″",
+  "oyster_cultivation": "",
+  "oyster_flavor_profile": "Paramour Oysters have a firm texture with a mild salinity and a clean, lettuce-like finish."
+}, {
+  "name": "Peconic Bay Oyster",
+  "location": "Great Peconic Bay, Long Island, NY",
+  "species": "Virginica or Atlantic Oyster (Crassostrea virginica)",
+  "oyster_availability": "occational closures due to ice",
+  "size": "3″ – 5″",
+  "oyster_cultivation": "Rack and Bag",
+  "oyster_flavor_profile": "Peconic Bay oysters have plump meats with a full flavor and a buttery finish."
+}, {
+  "name": "Parrot Island Oyster",
+  "location": "Parrot Island, Rappahannock River, Chesapeake Bay Region, Virginia",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Rack & Bag culture",
+  "oyster_flavor_profile": "Parrot Island Oysters have creamy meats with a mild salinity and slightly sweet flavor."
+}, {
+  "name": "Pemaquid Oyster",
+  "location": "Damariscotta River, Maine",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "March – December",
+  "size": "up to 5″",
+  "oyster_cultivation": "",
+  "oyster_flavor_profile": "Pemaquid Oysters have plump, very firm meats which are mildly sweet with a clean, lemony zest flavor and solid brininess."
+}, {
+  "name": "Pleasant Bay Oyster",
+  "location": "Pleasant Bay, Orleans, MA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "May – December",
+  "size": "up to 4″",
+  "oyster_cultivation": "Rack & Bag",
+  "oyster_flavor_profile": "Pleasant Bay Oysters have the classic Atlantic brininess with a crisp, clean flavor, a buttery texture and sweet finish."
+}, {
+  "name": "Pipes Cove Oyster",
+  "location": "Long Island’s East End, New York",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "",
+  "oyster_flavor_profile": "Pipes Cove Oysters have a medium brininess with plump meats and finish with the taste of iron."
+}, {
+  "name": "Quonset Point Oyster",
+  "location": "East Passage, Narragansett Bay, Rhode Island",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year around",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Suspension Tray cultivation",
+  "oyster_flavor_profile": "Quonset Point Oysters are renowned for their flavor. They have deep cups, a brine which changes from mild to pronounced depending upon the season and they have a clean finish."
+}, {
+  "name": "Ram Island Oyster",
+  "location": "Long Island Sound, Connecticut",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year Around",
+  "size": "up to 5″",
+  "oyster_cultivation": "Bottom Cultured",
+  "oyster_flavor_profile": "Ram Island Oysters have plump, delicate meats with a creamy texture. They have a mild to medium brininess with a yeasty, somewhat smoky flavor and an earthy finish."
+}, {
+  "name": "Rappahannock River Oyster",
+  "location": "Rappahannock River, Chesapeake Region, Virginia",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Off-bottom Rack & Bag",
+  "oyster_flavor_profile": "Rappahannock River Oysters are a fabulous oyster. They have buttery, tender meats with a mild brininess, sweet flavor and clean finish."
+}, {
+  "name": "Raspberry Point Oyster",
+  "location": "Prince Edward Island National Park, Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "May – November",
+  "size": "up to 3″",
+  "oyster_cultivation": "Bottom cultivation",
+  "oyster_flavor_profile": "Raspberry Point Oysters have a high brininess, clean flavor with a sweet finish."
+}, {
+  "name": "Saddlerock Oyster",
+  "location": "Northport Long Island, New York",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 5″",
+  "oyster_cultivation": "",
+  "oyster_flavor_profile": "Saddlerock Oysters have plump meats and a medium brininess"
+}, {
+  "name": "Salt Pond Oysters-Salt Pond Selects",
+  "location": "Point Judith Pond, RI",
+  "species": "Pacific Oyster (Crassostrea gigas)",
+  "oyster_availability": "September – July",
+  "size": "up to 4″",
+  "oyster_cultivation": "Bottom Cultured",
+  "oyster_flavor_profile": "Salt Pond Oysters have creamy, plump meats with an intense brininess, a pronounced mineral flavor and an overall complex flavor."
+}, {
+  "name": "Snow Hills Oyster",
+  "location": "Chincoteague Bay, Chesapeake Bay Region, Virginia, USA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Off Bottom floating mesh bag cultivation",
+  "oyster_flavor_profile": "Snow Hills Oysters have a moderate salinity of 28 ppt. They have a cool ocean taste with a hint of freshwater sweetness and are comparable to New Brunswick’s Beausoleils."
+}, {
+  "name": "South Hampton Select Oyster",
+  "location": "Robin’s Island, Long Island, New York",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "November – April",
+  "size": "up to 3″",
+  "oyster_cultivation": "Rack & Bag",
+  "oyster_flavor_profile": "South Hampton Select Oysters have full, tender meats with a delicate sweetness and overt brininess."
+}, {
+  "name": "Stingray Oyster",
+  "location": "Mobjack Bay, Chesapeake Bay, Virginia",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Off-bottom Rack & Bag",
+  "oyster_flavor_profile": "Stingray Oysters are plump and sweet with a mild brininess and a clean, crisp finish."
+}, {
+  "name": "Summerside Oyster",
+  "location": "Salutation Cove, Prince Edward Island, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year around",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Bottom culture",
+  "oyster_flavor_profile": "Summerside Oysters have deep cups with firm, plump meats, a medium salinity and a clean crisp finish."
+}, {
+  "name": "Tatamagouce Oyster",
+  "location": "Northumberland Straits, Nova Scotia, Canada",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "May – January, but avoid the summer months",
+  "size": "up to 5″",
+  "oyster_cultivation": "Wild bottom harvested",
+  "oyster_flavor_profile": "Tatamagouche Oysters are inconsistent in flavor. They can be tender-firm with a sweet, nutty flavor and medium salinity. Or they can be watery & tasteless."
+}, {
+  "name": "Tomahawk Oyster",
+  "location": "Menemsha Pond, Martha’s Vineyard, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "No longer available",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Rack & Bag cultivation",
+  "oyster_flavor_profile": "Tomahawk Oysters have well defined cups, a medium brine with a clean, fresh flavor and a lemony finish."
+}, {
+  "name": "Umamai Oyster",
+  "location": "East Passage, Narragansett Bay, Rhode Island",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Long-line Suspension Tray",
+  "oyster_flavor_profile": "Umami oysters are intensely savory and sweet with a creamy texture and pleasant saltiness. They are full of spirit and finesse."
+}, {
+  "name": "Wawenauk Oyster",
+  "location": "Damariscotta River, Maine",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 5″",
+  "oyster_cultivation": "Floating Rack then to Bottom Culture",
+  "oyster_flavor_profile": "Wawenauk Oysters have deep cups with firm meats, a high salinity and a sweet finish"
+}, {
+  "name": "Watch Hill Oyster",
+  "location": "Winnapaug Pond, Westerly, Rhode Island",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Rack & Bag plus chipping by hand",
+  "oyster_flavor_profile": "Watch Hill Oysters have deep cups, a high salinity, and a full-bodied flavor with a buttery sweet finish."
+}, {
+  "name": "Wellfleet Oyster",
+  "location": "Wellfleet Harbor, Cape Cod Bay, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Beach/Bottom cultured",
+  "oyster_flavor_profile": "Wellfleet Oysters have plump meats with a mild, sweet flavor, high brininess and a crisp, clean finish."
+}, {
+  "name": "Westport Island Oyster",
+  "location": "Westport Island, ME",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Limited Availability",
+  "size": "up to 3 1/2″",
+  "oyster_cultivation": "Rack & Bag",
+  "oyster_flavor_profile": "Westport Island Oysters have nicely developed cups with plump, silky meats, robust flavor, high salinity, and a buttery finish."
+}, {
+  "name": "Whale Rock Oyster",
+  "location": "Mystic River, Connecticut",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "3 1/2″ to 4 1/2″",
+  "oyster_cultivation": "Rack & Bag",
+  "oyster_flavor_profile": "Whale Rock Oysters are large, have perfectly shaped deep cups with a briny taste and mineral finish."
+}, {
+  "name": "WiAnno Oyster",
+  "location": "Southern Cape Cod, Massachusetts",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year Around",
+  "size": "up to 4″",
+  "oyster_cultivation": "Rack & Bag cultivation",
+  "oyster_flavor_profile": "WiAnno Oysters have firm, plump meats set in deep cups with a sweet flavor and high brininess."
+}, {
+  "name": "Widows Hole Oyster",
+  "location": "Greenport, Long Island, New York",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Rack & Bag cultivated",
+  "oyster_flavor_profile": "Widows Hole Oysters have tender, delectable meats with a medium brininess, sweet flavor and mineral finish."
+}, {
+  "name": "York River Oyster",
+  "location": "York River, Chesapeake Bay Tributary, Virginia, USA",
+  "species": "Virginica Oyster (Crassostrea virginica)",
+  "oyster_availability": "Year Around",
+  "size": "up to 3 3/4″",
+  "oyster_cultivation": "Rack & Bag",
+  "oyster_flavor_profile": "York River Oysters have a medium brininess and a sweet finish."
+}, {
+  "name": "Humboldt Gold Oysters",
+  "location": "Humboldt Bay, northern California",
+  "species": "Pacific Oyster (Crassostrea gigas)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Intertidal Beach cultivated oyster",
+  "oyster_flavor_profile": "Humboldt Gold Oysters have full, plump meats with a medium brininess and a buttery sweet flavor"
+}, {
+  "name": "Tomales Bay Oyster",
+  "location": "Tomales Bay, CA",
+  "species": "Pacific Oyster (Crassostrea gigas)",
+  "oyster_availability": "September – July",
+  "size": "up to 4″",
+  "oyster_cultivation": "Bottom grown",
+  "oyster_flavor_profile": "Tomales Bay Oysters have plump meats with a crisp, briny flavor"
+}, {
+  "name": "Drake’s Bay Oyster",
+  "location": "Drake’s Estero, Drake’s Bay, CA",
+  "species": "Pacific Oyster (Crassostrea gigas)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Rope suspension.",
+  "oyster_flavor_profile": "Drakes Bay Oysters have tender, delicate meats with a briny, sweet flavor and an herbal finish."
+}, {
+  "name": "Hog Island Kumamoto Oyster",
+  "location": "Hog Island, Tomales Bay, CA",
+  "species": "Kumamoto (Crassostrea Sikamea)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Rope suspension.",
+  "oyster_flavor_profile": "Hog Island Kumamoto Oysters have plump, buttery meats in deep cups with a sweet, mildly fruity flavor and slight mineral finish."
+}, {
+  "name": "Hog Island Virginica Oysters",
+  "location": "Hog Island, Tomales Bay, CA",
+  "species": "Atlantic (Virginica) Oyster (Crassostrea virginica)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Rack & Bag, harvested & held in purified saltwater.",
+  "oyster_flavor_profile": "Hog Island Virginica Oysters have an elongated shell with tender meats, a crisp briny flavor with a mineral finish."
+}, {
+  "name": "Elkhorn Oyster",
+  "location": "Willapa Bay, Washington Coast",
+  "species": "Pacific Oyster (Crassostrea gigas)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Beach grown",
+  "oyster_flavor_profile": "Elkhorn Oysters have firm meats with a high brininess, sweet flavor and a melon finish."
+}, {
+  "name": "Oysterville Select Oyster",
+  "location": "Willapa Bay, Washington Coast",
+  "species": "Pacific Oyster (Crassostrea gigas)",
+  "oyster_availability": "September – July",
+  "size": "up to 3″",
+  "oyster_cultivation": "Beach grown",
+  "oyster_flavor_profile": "Oysterville Select Oysters have a uniquely complex flavor."
+}, {
+  "name": "Netarts Bay Oyster",
+  "location": "Netarts Bay, Oregon Coast",
+  "species": "Pacific Oyster (Crassostrea gigas)",
+  "oyster_availability": "Year Around",
+  "size": "up to 8″",
+  "oyster_cultivation": "Beach grown",
+  "oyster_flavor_profile": "Netart Bay Oysters have tender meats, medium-high brininess, a pronounced flavor and a metallic finish."
+}]

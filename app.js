@@ -40,6 +40,8 @@ passport.use(new LocalStrategy(Account.authenticate()));
 passport.serializeUser(Account.serializeUser());
 passport.deserializeUser(Account.deserializeUser());
 
+var Oyster = require('./models/oyster');
+
 mongoose.connect('mongodb://localhost/awshucks');
 
 // catch 404 and forward to error handler
