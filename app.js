@@ -42,7 +42,7 @@ passport.deserializeUser(Account.deserializeUser());
 
 var Oyster = require('./models/oyster');
 
-mongoose.connect('mongodb://localhost/awshucks');
+mongoose.connect(process.env.MONGOLAB_URI || 'mongodb://localhost/awshucks');
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
