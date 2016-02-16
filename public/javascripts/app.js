@@ -1,4 +1,6 @@
 var app = angular.module('awShucks', [
   'oystersApiFactory',
-  'oysterListController'
+  'oysterListController',
+  'profileController',
+  'accountsApiFactory'
 ]);

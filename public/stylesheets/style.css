@@ -1,5 +1,5 @@
 body {
-  background-image: url('https://i.imgur.com/SdKjn2Y.jpg');
+  background-image: url(https://i.imgur.com/aBvbKgs.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding: 50px;
@@ -17,7 +17,7 @@ a {
 .awshucks-header {
   font-family: 'porter_sans_blockblock';
   font-size: 70px;
-  color: #16174f;
+  color: #15158E;
   margin: 10px 0px;
 }
 
@@ -28,7 +28,8 @@ a {
 .login-header,
 .register-header,
 .welcome-header,
-.oysters-header {
+.oysters-header,
+.profile-header {
   font-family: 'porter_sans_blockblock';
   font-size: 32px;
 }
@@ -45,7 +46,7 @@ a {
 
 .button {
   font-family: 'antoniolight';
-  color: #16174f;
+  color: #15158E;
   text-transform: uppercase;
   font-size: 16px;
   border: 1px solid black;
@@ -57,7 +58,7 @@ form {
 
 input {
   font-family: 'antoniolight';
-  color: #16174f;
+  color: #15158E;
   text-transform: uppercase;
   font-size: 12px;
 }

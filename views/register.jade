@@ -1,11 +1,11 @@
 extends layout
 
 block content
-  h1
-    a(href='/', class='awshucks-header') AW SHUCKS
+  .container(ng-controller='oysterController')
+
+    h1
+      a(href='/', class='awshucks-header') AW SHUCKS
     
-    
-  .container
     h4(class='register-header') REGISTER
     
     form(role='form', action='/register', method='post', style='max-width: 300px')
@@ -15,6 +15,11 @@ block content
       .row
         .twelve.columns
           input(class='u-full-width', type='password', name='password', placeholder='password')
+      .row
+        .six.columns
+          input(class='u-full-width', type='text', name='name', placeholder='name')
+        .six.columns
+          input(class='u-full-width', type='text', name='zipcode', placeholder='zipcode')
       .row
         .six.columns
           button(class='u-full-width', type='submit', class='button') SUBMIT

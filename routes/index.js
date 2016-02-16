@@ -10,6 +10,12 @@ router.get('/api/oysters', function(req, res){
   });
 });
 
+router.get('/api/accounts', function(req, res){
+  Account.find({}, function(err, dbAccounts){
+    res.json(dbAccounts);
+  });
+});
+
 /* GET home page. */
 router.get('/', function(req, res, next) {
   res.render('index', { user: req.user });
@@ -20,7 +26,7 @@ router.get('/register', function(req, res){
 });
 
 router.post('/register', function(req, res){
-  Account.register(new Account({username: req.body.username}), req.body.password, function(err, account){
+  Account.register(new Account({username: req.body.username, name: req.body.name, zipcode: req.body.zipcode, fav_oysters: req.body.fav_oysters}), req.body.password, function(err, account){
     if (err) {
       return res.render('register', {info: "Sorry. That username already exists. Try again."});
     }
@@ -46,5 +52,9 @@ router.get('/logout', function(req, res){
 router.get('/oysters', function(req, res){
   res.render('oysters', {});
 });
+
+router.get('/profile', function(req, res){
+  res.render('profile', {});
+})
 
 module.exports = router;

@@ -1,10 +1,11 @@
 extends layout
 
 block content
-  h1
-    a(href='/', class='awshucks-header') AW SHUCKS
+  .container(ng-controller='oysterController')
+
+    h1
+      a(href='/', class='awshucks-header') AW SHUCKS
     
-  .container
     if (!user)
       .row
         .six.columns
@@ -18,9 +19,9 @@ block content
       .row
         .twelve.columns
           a(href='/oysters', class='button') OYSTERS
-      .row
-        .twelve.columns
-          a(href='#', class='button') PROFILE
+      //- .row
+      //-   .twelve.columns
+      //-     a(href='/profile', class='button') PROFILE
       .row
         .twelve.columns
           a(href='/logout', class='button') LOGOUT
